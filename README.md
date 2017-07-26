@@ -1,3 +1,5 @@
+To check out the project open .ipybn file.
+
 Data Analysis and Machine Learning with Python
 - __EDA__ with ECDF and Correlation analysis.
 - __Preprocessing and Feature engineering__.
@@ -6,3 +8,4 @@ backed up by __cross-validation__, __grid search__ and plots of __feature import
 
 Libraries used: __numpy, pandas, missingno, matplotlib + seaborn and sklearn__.
 
+Thank you for reading!
