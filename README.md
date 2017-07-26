@@ -1,2 +1,8 @@
-# predictive_modeling_price
-Data Analysis and Machine Learning with Python: EDA with ECDF and Correlation analysis, Preprocessing and Feature engineering, L1 (Lasso) Regression and Random Forest Regressor with scikit-learn backed up by cross-validation, grid search and plots of feature importance.
+Data Analysis and Machine Learning with Python
+- __EDA__ with ECDF and Correlation analysis.
+- __Preprocessing and Feature engineering__.
+- L1 (__Lasso__) Regression and __Random Forest Regressor__ with scikit-learn 
+backed up by __cross-validation__, __grid search__ and plots of __feature importance__.
+
+Libraries used: __numpy, pandas, missingno, matplotlib + seaborn and sklearn__.
+
